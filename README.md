@@ -20,7 +20,7 @@
 💻 Interested in software development and meaningful projects  
 🌍 I love traveling, cultural exchange and new experiences  
 🇪🇺 Curious about **Erasmus+** and international opportunities  
-🧠 Working on my **critical thinking**  
+🧠 Working on my **soft skills**  
 🍵 Exploring new lifestyles — currently inspired by **traditional Japanese food**
 
 ---
@@ -37,5 +37,5 @@
 ```txt
 Languages:     C++ | Java | Ruby
 Tools:         Git | GitHub | VS Code | RubyMine | NetBeans
-Interests:     Useful software | Education | Quantum Mechanics
+Interests:     Blockchain | Education | Quantum Mechanics
 
